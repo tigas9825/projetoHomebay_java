@@ -44,8 +44,8 @@ Editar imóveis
 O Admin terá́ de estar Logado, ter as autorizações para poder Editar qualquer imóvel.
 
 **Passo a passo:**
-1 – Tem de inserir os dados pessoais (Nome Completo, Telemóvel, E-mail, NIF, Data e Hora) 
-2 – Clicar no botão (Agendar)
+1 – Tem de inserir os dados pessoais (Nome Completo, Telemóvel, E-mail, NIF, Data e Hora).
+2 – Clicar no botão (Agendar).
 3 – Recebe a confirmação da Visita.
 
 **Pós-condições:**
